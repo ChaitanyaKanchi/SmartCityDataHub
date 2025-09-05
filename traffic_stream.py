@@ -34,3 +34,5 @@ while True:
     producer.send_batch(event_data_batch)
     print("✅ Batch sent!")
     time.sleep(5) 
+
+
